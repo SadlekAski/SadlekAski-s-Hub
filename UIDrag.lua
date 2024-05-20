@@ -65,3 +65,5 @@ local function makeDraggable(gui, restrictOffscreen)
 		end
 	end)
 end
+
+return makeDraggable
